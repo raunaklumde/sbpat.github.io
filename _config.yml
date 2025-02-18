@@ -13,7 +13,7 @@ title                    : "Raunak Lumde"
 title_separator          : "-"
 name                     : &name "Raunak Lumdeme"
 description              : &description "A 15 year old student based in Bengaluru, Karnataka."
-url                      : https://sbpat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://raunaklumde.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbpat.github.io"
 
